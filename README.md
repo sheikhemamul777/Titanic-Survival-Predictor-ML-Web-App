@@ -66,4 +66,4 @@ The engine utilizes a **Support Vector Machine (SVM)** classifier, chosen for it
     ```
 
 ---
-© 2026 | Developed by Sheikh Emamul | Machine Learning Portfolio
+© 2026 | Developed by Emamul Sheikh | Machine Learning Portfolio
