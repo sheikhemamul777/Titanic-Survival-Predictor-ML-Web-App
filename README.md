@@ -28,5 +28,7 @@ An interactive Machine Learning web application designed to predict Titanic pass
 
 1. **Clone the repository:**
    ```bash
+  1. **Clone the repository:**
+   ```bash
    git clone [https://github.com/sheikhemamul777/Titanic-Survival-Predictor-ML-Web-App.git](https://github.com/sheikhemamul777/Titanic-Survival-Predictor-ML-Web-App.git)
    cd Titanic-Survival-Predictor-ML-Web-App
